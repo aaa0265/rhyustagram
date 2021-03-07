@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337473543970",
+    "project_id": "rhyustagram",
+    "storage_bucket": "rhyustagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337473543970:android:d53a639d85598122ea4f7b",
+        "android_client_info": {
+          "package_name": "com.example.rhyustagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337473543970-d2auj6usq2032k778ubbb9bn28t1ii17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzWmkYr-PrxtQsMw5P8gCnZ4gJookXvSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337473543970-d2auj6usq2032k778ubbb9bn28t1ii17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
